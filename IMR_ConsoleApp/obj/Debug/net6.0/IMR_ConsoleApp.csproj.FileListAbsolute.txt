@@ -1,0 +1,14 @@
+D:\My Projects\IMR_ConsoleApp\bin\Debug\net6.0\IMR_ConsoleApp.exe
+D:\My Projects\IMR_ConsoleApp\bin\Debug\net6.0\IMR_ConsoleApp.deps.json
+D:\My Projects\IMR_ConsoleApp\bin\Debug\net6.0\IMR_ConsoleApp.runtimeconfig.json
+D:\My Projects\IMR_ConsoleApp\bin\Debug\net6.0\IMR_ConsoleApp.dll
+D:\My Projects\IMR_ConsoleApp\bin\Debug\net6.0\IMR_ConsoleApp.pdb
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.AssemblyInfoInputs.cache
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.AssemblyInfo.cs
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.dll
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\refint\IMR_ConsoleApp.dll
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.pdb
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\IMR_ConsoleApp.genruntimeconfig.cache
+D:\My Projects\IMR_ConsoleApp\obj\Debug\net6.0\ref\IMR_ConsoleApp.dll
